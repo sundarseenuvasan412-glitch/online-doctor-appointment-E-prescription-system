@@ -1,0 +1,208 @@
+{
+  "hash": "d0d76bf6",
+  "configHash": "d48f1b64",
+  "lockfileHash": "6e05b95a",
+  "browserHash": "63699e18",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "9973bb8b",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "9374051d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "1acf4e60",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "d846a098",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Add": {
+      "src": "../../@mui/icons-material/esm/Add.js",
+      "file": "@mui_icons-material_Add.js",
+      "fileHash": "3e5c91b0",
+      "needsInterop": false
+    },
+    "@mui/icons-material/AdminPanelSettings": {
+      "src": "../../@mui/icons-material/esm/AdminPanelSettings.js",
+      "file": "@mui_icons-material_AdminPanelSettings.js",
+      "fileHash": "6b6fffa2",
+      "needsInterop": false
+    },
+    "@mui/icons-material/CalendarMonth": {
+      "src": "../../@mui/icons-material/esm/CalendarMonth.js",
+      "file": "@mui_icons-material_CalendarMonth.js",
+      "fileHash": "b1f18de0",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Chat": {
+      "src": "../../@mui/icons-material/esm/Chat.js",
+      "file": "@mui_icons-material_Chat.js",
+      "fileHash": "fcd20606",
+      "needsInterop": false
+    },
+    "@mui/icons-material/ChatBubbleOutline": {
+      "src": "../../@mui/icons-material/esm/ChatBubbleOutline.js",
+      "file": "@mui_icons-material_ChatBubbleOutline.js",
+      "fileHash": "2d2a7297",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Close": {
+      "src": "../../@mui/icons-material/esm/Close.js",
+      "file": "@mui_icons-material_Close.js",
+      "fileHash": "04385f81",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Edit": {
+      "src": "../../@mui/icons-material/esm/Edit.js",
+      "file": "@mui_icons-material_Edit.js",
+      "fileHash": "6b3a945f",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Email": {
+      "src": "../../@mui/icons-material/esm/Email.js",
+      "file": "@mui_icons-material_Email.js",
+      "fileHash": "8764c480",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Group": {
+      "src": "../../@mui/icons-material/esm/Group.js",
+      "file": "@mui_icons-material_Group.js",
+      "fileHash": "3a6b6b0c",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Home": {
+      "src": "../../@mui/icons-material/esm/Home.js",
+      "file": "@mui_icons-material_Home.js",
+      "fileHash": "7fdc8fdb",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Lock": {
+      "src": "../../@mui/icons-material/esm/Lock.js",
+      "file": "@mui_icons-material_Lock.js",
+      "fileHash": "e0c4298e",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Login": {
+      "src": "../../@mui/icons-material/esm/Login.js",
+      "file": "@mui_icons-material_Login.js",
+      "fileHash": "95c08871",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Logout": {
+      "src": "../../@mui/icons-material/esm/Logout.js",
+      "file": "@mui_icons-material_Logout.js",
+      "fileHash": "e3191359",
+      "needsInterop": false
+    },
+    "@mui/icons-material/MedicalInformation": {
+      "src": "../../@mui/icons-material/esm/MedicalInformation.js",
+      "file": "@mui_icons-material_MedicalInformation.js",
+      "fileHash": "0e09090c",
+      "needsInterop": false
+    },
+    "@mui/icons-material/MedicalServices": {
+      "src": "../../@mui/icons-material/esm/MedicalServices.js",
+      "file": "@mui_icons-material_MedicalServices.js",
+      "fileHash": "d57e4660",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Menu": {
+      "src": "../../@mui/icons-material/esm/Menu.js",
+      "file": "@mui_icons-material_Menu.js",
+      "fileHash": "04398127",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Person": {
+      "src": "../../@mui/icons-material/esm/Person.js",
+      "file": "@mui_icons-material_Person.js",
+      "fileHash": "f1634105",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Phone": {
+      "src": "../../@mui/icons-material/esm/Phone.js",
+      "file": "@mui_icons-material_Phone.js",
+      "fileHash": "98b49a3e",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Send": {
+      "src": "../../@mui/icons-material/esm/Send.js",
+      "file": "@mui_icons-material_Send.js",
+      "fileHash": "b0b435d5",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "76cce9e2",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "6d656b1c",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "12e10799",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9e117394",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "7b4f1c90",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "66f76732",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-N2R7X5R7": {
+      "file": "chunk-N2R7X5R7.js"
+    },
+    "chunk-KDCVS43I": {
+      "file": "chunk-KDCVS43I.js"
+    },
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-BCEXRW33": {
+      "file": "chunk-BCEXRW33.js"
+    },
+    "chunk-5SG7BCTC": {
+      "file": "chunk-5SG7BCTC.js"
+    },
+    "chunk-S725DACQ": {
+      "file": "chunk-S725DACQ.js"
+    },
+    "chunk-RLJ2RCJQ": {
+      "file": "chunk-RLJ2RCJQ.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
